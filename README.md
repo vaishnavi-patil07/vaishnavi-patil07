@@ -10,3 +10,9 @@ real-world applications using software development and AI.
 - 💡 Interested in AI, Web Development & Automation
 - 🎯 Preparing for software development internships and placements
 - 📍 Pune, Maharashtra, India
+
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
