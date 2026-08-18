@@ -45,4 +45,32 @@ real-world applications using software development and AI.
 - 📚 Learning: DSA • Spring Boot • AI
 - 🔥 Contributions: Check my GitHub activity below
 
+  ## 🚀 Featured Projects
+
+### 🤖 AI Voice Assistant
+A Python-based voice assistant that can recognize voice commands,
+perform system operations, search information and respond using speech.
+
+**Tech:** Python • SpeechRecognition • Pyttsx3 • SQLite
+
+🔗 [View Project](https://github.com/vaishnavi-patil07/AI-Voice-Assistant)
+
+
+### 🛡️ Cyber Quiz App
+An interactive application designed to improve cybersecurity awareness
+through quizzes and interactive learning.
+
+**Tech:** Kotlin • Firebase
+
+🔗 [View Project](https://github.com/vaishnavi-patil07/Cyber-Quiz-App)
+
+
+### 🌐 Personal Portfolio
+My personal developer portfolio showcasing my skills, projects and
+learning journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/vaishnavi-patil07/portfolio)
+
 
