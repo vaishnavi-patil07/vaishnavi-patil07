@@ -36,5 +36,13 @@ real-world applications using software development and AI.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Journey
+
+> Building consistently, learning continuously 🚀
+
+- 💻 Focus: Java • Python • AI/ML
+- 🚀 Building: Real-world projects
+- 📚 Learning: DSA • Spring Boot • AI
+- 🔥 Contributions: Check my GitHub activity below
 
 
